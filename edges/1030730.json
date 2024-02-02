@@ -1,1 +1,1 @@
-{"name": "中国地方のバス停", "id": 1030730, "predecessors": [{"name": "日本のバス交通", "id": 2101434}, {"name": "中国地方", "id": 221281}], "successors": []}
+{"name": "中国地方のバス停", "id": 1030730, "predecessors": [{"name": "公共交通", "id": 837353}, {"name": "主要カテゴリ", "id": 185451}], "successors": []}

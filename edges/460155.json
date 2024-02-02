@@ -1,1 +1,1 @@
-{"name": "トランジスタ", "id": 460155, "predecessors": [{"name": "半導体素子", "id": 892142}], "successors": []}
+{"name": "トランジスタ", "id": 460155, "predecessors": [{"name": "半導体", "id": 234295}], "successors": []}

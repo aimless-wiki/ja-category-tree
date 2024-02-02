@@ -1,1 +1,1 @@
-{"name": "二酸化ケイ素", "id": 1630713, "predecessors": [{"name": "ケイ素の化合物", "id": 573540}, {"name": "酸化物", "id": 557955}], "successors": []}
+{"name": "二酸化ケイ素", "id": 1630713, "predecessors": [{"name": "酸化物", "id": 557955}, {"name": "分子", "id": 442451}], "successors": []}

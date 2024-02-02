@@ -1,1 +1,1 @@
-{"name": "チーズ料理", "id": 2209290, "predecessors": [{"name": "チーズ", "id": 115374}, {"name": "乳", "id": 1215334}], "successors": [{"name": "ピザ", "id": 2037176}]}
+{"name": "チーズ料理", "id": 2209290, "predecessors": [{"name": "チーズ", "id": 115374}, {"name": "生理学", "id": 168148}], "successors": []}

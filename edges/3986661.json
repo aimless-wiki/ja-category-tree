@@ -1,1 +1,1 @@
-{"name": "男優のラジオ番組", "id": 3986661, "predecessors": [{"name": "俳優", "id": 166495}, {"name": "ラジオ番組", "id": 131918}], "successors": []}
+{"name": "男優のラジオ番組", "id": 3986661, "predecessors": [{"name": "芸能人", "id": 166497}, {"name": "芸術のジャンル", "id": 3859427}], "successors": []}

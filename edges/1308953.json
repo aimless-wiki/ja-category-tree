@@ -1,1 +1,1 @@
-{"name": "スイスの電気機関車", "id": 1308953, "predecessors": [{"name": "スイスの鉄道車両", "id": 992660}, {"name": "電気機関車", "id": 923738}], "successors": []}
+{"name": "スイスの電気機関車", "id": 1308953, "predecessors": [{"name": "鉄道", "id": 103555}, {"name": "交通", "id": 124935}], "successors": []}

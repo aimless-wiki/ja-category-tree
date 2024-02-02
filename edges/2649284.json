@@ -1,1 +1,1 @@
-{"name": "地方気象台", "id": 2649284, "predecessors": [{"name": "地方支分部局", "id": 2649234}, {"name": "気象台", "id": 4235634}], "successors": []}
+{"name": "地方気象台", "id": 2649284, "predecessors": [{"name": "気象台", "id": 4235634}, {"name": "行政", "id": 197782}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Webマップサービス", "id": 3882936, "predecessors": [{"name": "Webサービス", "id": 1808920}, {"name": "地図", "id": 280090}], "successors": []}
+{"name": "Webマップサービス", "id": 3882936, "predecessors": [{"name": "地図", "id": 280090}, {"name": "XMLベースの技術", "id": 1124563}], "successors": []}

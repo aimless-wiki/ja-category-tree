@@ -1,1 +1,1 @@
-{"name": "KBS水木ドラマ", "id": 2164474, "predecessors": [{"name": "テレビドラマ", "id": 131917}, {"name": "韓国のテレビドラマ", "id": 166972}], "successors": []}
+{"name": "KBS水木ドラマ", "id": 2164474, "predecessors": [{"name": "テレビ放送枠", "id": 887420}, {"name": "テレビ", "id": 131605}], "successors": []}

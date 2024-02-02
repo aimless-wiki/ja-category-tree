@@ -1,1 +1,1 @@
-{"name": "研究科", "id": 123429, "predecessors": [{"name": "大学院", "id": 330378}, {"name": "研究", "id": 277066}], "successors": []}
+{"name": "研究科", "id": 123429, "predecessors": [{"name": "研究", "id": 277066}, {"name": "学校", "id": 103542}], "successors": []}

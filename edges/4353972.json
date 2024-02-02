@@ -1,1 +1,1 @@
-{"name": "Jリーグ関連のラジオ番組", "id": 4353972, "predecessors": [{"name": "Jリーグ関連のメディア", "id": 4353700}, {"name": "スポーツメディア", "id": 1081962}], "successors": []}
+{"name": "Jリーグ関連のラジオ番組", "id": 4353972, "predecessors": [{"name": "報道", "id": 156286}, {"name": "Jリーグ", "id": 158367}], "successors": []}

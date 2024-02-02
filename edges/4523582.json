@@ -1,1 +1,1 @@
-{"name": "毒死した人物", "id": 4523582, "predecessors": [{"name": "中毒", "id": 2529878}, {"name": "毒", "id": 208504}, {"name": "死去した人物", "id": 3891586}], "successors": []}
+{"name": "毒死した人物", "id": 4523582, "predecessors": [{"name": "毒", "id": 208504}, {"name": "死因", "id": 2057760}, {"name": "人物の一覧", "id": 1960941}], "successors": []}

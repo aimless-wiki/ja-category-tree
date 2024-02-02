@@ -1,1 +1,1 @@
-{"name": "食用川魚", "id": 571628, "predecessors": [{"name": "淡水魚", "id": 570333}, {"name": "食用魚", "id": 2925841}], "successors": []}
+{"name": "食用川魚", "id": 571628, "predecessors": [{"name": "淡水魚", "id": 570333}, {"name": "水産物", "id": 116619}], "successors": []}

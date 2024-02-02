@@ -1,1 +1,1 @@
-{"name": "テレビの討論番組", "id": 3815588, "predecessors": [{"name": "討論番組", "id": 383771}, {"name": "テレビ番組のジャンル", "id": 470113}], "successors": []}
+{"name": "テレビの討論番組", "id": 3815588, "predecessors": [{"name": "報道", "id": 156286}, {"name": "主要カテゴリ", "id": 185451}], "successors": []}

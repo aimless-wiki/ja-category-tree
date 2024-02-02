@@ -1,1 +1,1 @@
-{"name": "錯視", "id": 1537837, "predecessors": [{"name": "曖昧さ", "id": 3843495}, {"name": "視覚", "id": 632058}, {"name": "錯覚", "id": 256240}], "successors": []}
+{"name": "錯視", "id": 1537837, "predecessors": [{"name": "視覚", "id": 632058}, {"name": "心理学", "id": 137427}, {"name": "思考", "id": 424954}], "successors": []}

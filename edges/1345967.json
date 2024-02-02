@@ -1,1 +1,1 @@
-{"name": "ウォッカベースのカクテル", "id": 1345967, "predecessors": [{"name": "ウォッカ", "id": 2488608}, {"name": "カクテル", "id": 114071}], "successors": []}
+{"name": "ウォッカベースのカクテル", "id": 1345967, "predecessors": [{"name": "蒸留酒", "id": 498579}, {"name": "カクテル", "id": 114071}], "successors": []}

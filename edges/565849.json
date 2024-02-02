@@ -1,1 +1,1 @@
-{"name": "カナダのテレビドラマ", "id": 565849, "predecessors": [{"name": "カナダのテレビ番組", "id": 1118202}, {"name": "テレビドラマ", "id": 131917}], "successors": []}
+{"name": "カナダのテレビドラマ", "id": 565849, "predecessors": [{"name": "テレビ", "id": 131605}, {"name": "放送", "id": 156233}], "successors": []}

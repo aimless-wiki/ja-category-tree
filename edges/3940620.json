@@ -1,1 +1,1 @@
-{"name": "4発ジェット機", "id": 3940620, "predecessors": [{"name": "ジェットエンジン", "id": 1200868}, {"name": "航空機の形態", "id": 179134}], "successors": []}
+{"name": "4発ジェット機", "id": 3940620, "predecessors": [{"name": "エネルギー", "id": 244875}, {"name": "航空機の形態", "id": 179134}], "successors": []}

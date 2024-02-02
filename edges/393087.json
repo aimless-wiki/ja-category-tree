@@ -1,1 +1,1 @@
-{"name": "食用キノコ", "id": 393087, "predecessors": [{"name": "キノコ", "id": 168169}, {"name": "食材", "id": 2128436}], "successors": []}
+{"name": "食用キノコ", "id": 393087, "predecessors": [{"name": "菌類", "id": 180527}, {"name": "材料", "id": 142774}], "successors": []}

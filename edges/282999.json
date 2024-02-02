@@ -1,1 +1,1 @@
-{"name": "体積の単位", "id": 282999, "predecessors": [{"name": "体積", "id": 600358}, {"name": "単位", "id": 233290}], "successors": []}
+{"name": "体積の単位", "id": 282999, "predecessors": [{"name": "物理量", "id": 252040}, {"name": "測定", "id": 176306}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "奨学金", "id": 811815, "predecessors": [{"name": "教育制度", "id": 112249}, {"name": "教育経済学", "id": 2997323}, {"name": "教育費", "id": 2997311}], "successors": []}
+{"name": "奨学金", "id": 811815, "predecessors": [{"name": "教育制度", "id": 112249}, {"name": "教育", "id": 103543}, {"name": "教育学", "id": 139644}], "successors": []}

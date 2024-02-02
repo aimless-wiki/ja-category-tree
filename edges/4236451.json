@@ -1,1 +1,1 @@
-{"name": "マグネシウム鉱物", "id": 4236451, "predecessors": [{"name": "マグネシウムの化合物", "id": 573550}], "successors": []}
+{"name": "マグネシウム鉱物", "id": 4236451, "predecessors": [{"name": "分子", "id": 442451}, {"name": "岩石", "id": 151928}], "successors": []}

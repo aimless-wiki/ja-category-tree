@@ -1,1 +1,1 @@
-{"name": "女性薬剤師", "id": 4488319, "predecessors": [{"name": "職業別の女性", "id": 1800761}, {"name": "薬剤師", "id": 509498}], "successors": []}
+{"name": "女性薬剤師", "id": 4488319, "predecessors": [{"name": "女性", "id": 472831}, {"name": "医療関連の職業", "id": 896646}], "successors": []}

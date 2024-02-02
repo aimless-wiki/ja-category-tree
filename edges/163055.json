@@ -1,1 +1,1 @@
-{"name": "ソ連の戦車", "id": 163055, "predecessors": [{"name": "ソビエト連邦の装甲戦闘車両", "id": 772546}, {"name": "戦車", "id": 163048}], "successors": []}
+{"name": "ソ連の戦車", "id": 163055, "predecessors": [{"name": "兵器", "id": 158057}, {"name": "大砲", "id": 287847}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "基準", "id": 3842621, "predecessors": [{"name": "単位", "id": 233290}, {"name": "社会", "id": 139645}], "successors": [{"name": "マニュアル", "id": 3930964}]}
+{"name": "基準", "id": 3842621, "predecessors": [{"name": "社会", "id": 139645}, {"name": "指標", "id": 233478}], "successors": [{"name": "マークアップ言語", "id": 186556}]}

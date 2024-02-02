@@ -1,1 +1,1 @@
-{"name": "TOPIX_100", "id": 4576670, "predecessors": [{"name": "日本の株価指数", "id": 2637881}, {"name": "株式市場", "id": 160478}], "successors": []}
+{"name": "TOPIX_100", "id": 4576670, "predecessors": [{"name": "各国の経済", "id": 254156}, {"name": "株式市場", "id": 160478}], "successors": []}

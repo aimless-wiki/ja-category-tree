@@ -1,1 +1,1 @@
-{"name": "IC乗車カード", "id": 935011, "predecessors": [{"name": "ICカード", "id": 962220}, {"name": "RFID", "id": 1179141}, {"name": "乗車カード", "id": 392515}, {"name": "非接触型決済", "id": 584999}], "successors": [{"name": "Suica", "id": 515148}, {"name": "PiTaPa", "id": 601525}]}
+{"name": "IC乗車カード", "id": 935011, "predecessors": [{"name": "ICカード", "id": 962220}, {"name": "乗車カード", "id": 392515}, {"name": "電子決済", "id": 400531}, {"name": "携帯機器", "id": 669167}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "地球横断小惑星", "id": 2642177, "predecessors": [{"name": "地球", "id": 237176}, {"name": "小惑星", "id": 189207}], "successors": []}
+{"name": "地球横断小惑星", "id": 2642177, "predecessors": [{"name": "小惑星", "id": 189207}, {"name": "太陽系", "id": 267145}], "successors": []}

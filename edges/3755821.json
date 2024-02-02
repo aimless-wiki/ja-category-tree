@@ -1,1 +1,1 @@
-{"name": "AbemaTVのバラエティ番組", "id": 3755821, "predecessors": [{"name": "AbemaTVのオリジナル番組", "id": 3780257}, {"name": "日本のWebバラエティ番組", "id": 3779141}], "successors": [{"name": "ネオバズ", "id": 4240932}]}
+{"name": "AbemaTVのバラエティ番組", "id": 3755821, "predecessors": [{"name": "日本のWebバラエティ番組", "id": 3779141}, {"name": "ビデオ・オン・デマンドのサービス", "id": 3214863}], "successors": []}

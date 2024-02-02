@@ -1,1 +1,1 @@
-{"name": "中州", "id": 1641485, "predecessors": [{"name": "島", "id": 137000}, {"name": "河川", "id": 136533}], "successors": []}
+{"name": "中州", "id": 1641485, "predecessors": [{"name": "河川", "id": 136533}, {"name": "地形", "id": 145402}], "successors": []}

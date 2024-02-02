@@ -1,1 +1,1 @@
-{"name": "総合格闘技解説者", "id": 3629365, "predecessors": [{"name": "スポーツ評論家", "id": 1187731}, {"name": "格闘技の関係者", "id": 510166}], "successors": []}
+{"name": "総合格闘技解説者", "id": 3629365, "predecessors": [{"name": "格闘技の関係者", "id": 510166}, {"name": "技術", "id": 139641}], "successors": []}

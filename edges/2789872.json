@@ -1,1 +1,1 @@
-{"name": "競馬の画像提供依頼", "id": 2789872, "predecessors": [{"name": "競馬", "id": 125306}], "successors": []}
+{"name": "競馬の画像提供依頼", "id": 2789872, "predecessors": [{"name": "アニマルスポーツ", "id": 574948}, {"name": "画像提供依頼", "id": 290247}], "successors": []}
