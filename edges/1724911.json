@@ -1,1 +1,1 @@
-{"name": "KBS京都のテレビ番組", "id": 1724911, "predecessors": [{"name": "日本のAMラジオ局", "id": 156250}, {"name": "放送番組", "id": 481548}, {"name": "日本の放送", "id": 466545}], "successors": []}
+{"name": "KBS京都のテレビ番組", "id": 1724911, "predecessors": [{"name": "フジサンケイグループ", "id": 447037}, {"name": "日本の放送", "id": 466545}, {"name": "放送番組", "id": 481548}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "J_SPORTS", "id": 1341000, "predecessors": [{"name": "CSのスポーツ番組", "id": 3400812}, {"name": "J:COM", "id": 420984}, {"name": "スカパー!のチャンネル", "id": 1564637}, {"name": "マスメディア", "id": 156236}, {"name": "報道", "id": 156286}, {"name": "テレビ", "id": 131605}], "successors": []}
+{"name": "J_SPORTS", "id": 1341000, "predecessors": [{"name": "CSのスポーツ番組", "id": 3400812}, {"name": "J:COM", "id": 420984}, {"name": "マスメディア", "id": 156236}, {"name": "報道", "id": 156286}, {"name": "テレビ", "id": 131605}], "successors": []}

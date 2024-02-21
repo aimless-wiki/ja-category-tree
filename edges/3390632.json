@@ -1,1 +1,1 @@
-{"name": "単式機関車", "id": 3390632, "predecessors": [{"name": "鉄道車両工学", "id": 422407}], "successors": []}
+{"name": "単式機関車", "id": 3390632, "predecessors": [{"name": "鉄道車両工学", "id": 422407}, {"name": "暖房換気空調", "id": 1068755}], "successors": []}

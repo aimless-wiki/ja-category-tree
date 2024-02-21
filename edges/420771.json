@@ -1,1 +1,1 @@
-{"name": "歩道", "id": 420771, "predecessors": [{"name": "道路", "id": 103633}, {"name": "歩行", "id": 449226}], "successors": []}
+{"name": "歩道", "id": 420771, "predecessors": [{"name": "道路", "id": 103633}, {"name": "歩行", "id": 449226}], "successors": [{"name": "日本の歩道橋", "id": 2718867}]}
