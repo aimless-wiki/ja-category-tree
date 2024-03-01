@@ -1,1 +1,1 @@
-{"name": "住宅類型", "id": 2854322, "predecessors": [{"name": "住宅", "id": 229084}, {"name": "存在論", "id": 785123}], "successors": [{"name": "マンション", "id": 1646037}]}
+{"name": "住宅類型", "id": 2854322, "predecessors": [{"name": "住宅", "id": 229084}, {"name": "主要カテゴリ", "id": 185451}], "successors": [{"name": "マンション", "id": 1646037}]}

@@ -1,1 +1,1 @@
-{"name": "グラフ理論", "id": 241026, "predecessors": [{"name": "組合せ論", "id": 354100}, {"name": "整数", "id": 174217}, {"name": "論理学", "id": 210257}, {"name": "主要カテゴリ", "id": 185451}], "successors": []}
+{"name": "グラフ理論", "id": 241026, "predecessors": [{"name": "組合せ論", "id": 354100}], "successors": []}
