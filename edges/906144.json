@@ -1,1 +1,1 @@
-{"name": "ラーメン店", "id": 906144, "predecessors": [{"name": "日本のレストラン", "id": 3029922}, {"name": "日本の発明", "id": 3289824}], "successors": []}
+{"name": "ラーメン店", "id": 906144, "predecessors": [{"name": "ラーメン", "id": 197193}, {"name": "日本のレストラン", "id": 3029922}], "successors": []}
