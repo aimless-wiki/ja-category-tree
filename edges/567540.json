@@ -1,1 +1,1 @@
-{"name": "食肉加工品", "id": 567540, "predecessors": [{"name": "食品", "id": 107090}, {"name": "技術", "id": 139641}], "successors": []}
+{"name": "食肉加工品", "id": 567540, "predecessors": [{"name": "食品加工", "id": 3015025}, {"name": "技術", "id": 139641}], "successors": []}
