@@ -1,1 +1,1 @@
-{"name": "銀河", "id": 265481, "predecessors": [{"name": "うず", "id": 1560435}, {"name": "天体", "id": 136579}], "successors": [{"name": "銀河団", "id": 2376680}]}
+{"name": "銀河", "id": 265481, "predecessors": [{"name": "天体", "id": 136579}, {"name": "回転", "id": 1798318}], "successors": [{"name": "銀河団", "id": 2376680}]}
