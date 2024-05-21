@@ -1,1 +1,1 @@
-{"name": "整形外科学", "id": 459206, "predecessors": [{"name": "外科学", "id": 459247}, {"name": "医学", "id": 104171}], "successors": [{"name": "外傷", "id": 362746}, {"name": "日本の整形外科医", "id": 2059108}]}
+{"name": "整形外科学", "id": 459206, "predecessors": [{"name": "外科学", "id": 459247}, {"name": "医学", "id": 104171}], "successors": [{"name": "外傷", "id": 362746}]}
