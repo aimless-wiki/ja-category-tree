@@ -1,1 +1,1 @@
-{"name": "洋菓子材料", "id": 958702, "predecessors": [{"name": "洋菓子", "id": 941263}, {"name": "食品加工", "id": 3015025}], "successors": [{"name": "種実類", "id": 215015}]}
+{"name": "洋菓子材料", "id": 958702, "predecessors": [{"name": "洋菓子", "id": 941263}, {"name": "食品", "id": 107090}], "successors": [{"name": "種実類", "id": 215015}]}

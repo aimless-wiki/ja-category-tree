@@ -1,1 +1,1 @@
-{"name": "航空自衛隊の航空機", "id": 4930736, "predecessors": [{"name": "航空自衛隊の装備品", "id": 1921193}, {"name": "交通", "id": 124935}], "successors": []}
+{"name": "航空自衛隊の航空機", "id": 4930736, "predecessors": [{"name": "交通", "id": 124935}, {"name": "航空自衛隊", "id": 231163}], "successors": []}
