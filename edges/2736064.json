@@ -1,1 +1,1 @@
-{"name": "アカデミックスキル", "id": 2736064, "predecessors": [{"name": "技能", "id": 3034914}, {"name": "文書", "id": 174878}, {"name": "研究", "id": 277066}], "successors": []}
+{"name": "アカデミックスキル", "id": 2736064, "predecessors": [{"name": "文書", "id": 174878}, {"name": "研究", "id": 277066}, {"name": "技術", "id": 139641}], "successors": []}
