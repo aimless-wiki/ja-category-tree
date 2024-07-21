@@ -1,1 +1,1 @@
-{"name": "宝くじ", "id": 183294, "predecessors": [{"name": "くじ", "id": 1592744}, {"name": "ギャンブル", "id": 3774346}], "successors": []}
+{"name": "宝くじ", "id": 183294, "predecessors": [{"name": "賭博", "id": 182965}, {"name": "ゲーム", "id": 131656}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "カルボン酸塩", "id": 2888029, "predecessors": [{"name": "分子", "id": 442451}], "successors": []}
+{"name": "カルボン酸塩", "id": 2888029, "predecessors": [{"name": "カルボン酸", "id": 606114}, {"name": "分子", "id": 442451}], "successors": []}
