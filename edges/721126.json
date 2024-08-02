@@ -1,1 +1,1 @@
-{"name": "ローラーコースター", "id": 721126, "predecessors": [{"name": "アトラクション", "id": 1298356}, {"name": "技術", "id": 139641}], "successors": []}
+{"name": "ローラーコースター", "id": 721126, "predecessors": [{"name": "遊具", "id": 241978}, {"name": "技術", "id": 139641}], "successors": []}
