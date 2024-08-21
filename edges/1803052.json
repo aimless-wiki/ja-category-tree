@@ -1,1 +1,1 @@
-{"name": "数学書", "id": 1803052, "predecessors": [{"name": "科学書", "id": 1803072}, {"name": "作品", "id": 620701}], "successors": []}
+{"name": "数学書", "id": 1803052, "predecessors": [{"name": "ジャンル別の書物", "id": 1803077}, {"name": "作品", "id": 620701}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "検索エンジン", "id": 111714, "predecessors": [{"name": "オンライン情報源", "id": 979287}, {"name": "ポータルサイト", "id": 533903}, {"name": "World_Wide_Web", "id": 111710}], "successors": [{"name": "文献検索サイト", "id": 1205364}]}
+{"name": "検索エンジン", "id": 111714, "predecessors": [{"name": "オンライン情報源", "id": 979287}, {"name": "ポータルサイト", "id": 533903}, {"name": "World_Wide_Web", "id": 111710}], "successors": []}

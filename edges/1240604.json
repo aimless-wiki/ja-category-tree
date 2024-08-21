@@ -1,1 +1,1 @@
-{"name": "空港連絡鉄道", "id": 1240604, "predecessors": [{"name": "鉄道", "id": 103555}, {"name": "海難救助", "id": 1930302}], "successors": [{"name": "空港駅", "id": 3259326}]}
+{"name": "空港連絡鉄道", "id": 1240604, "predecessors": [{"name": "鉄道", "id": 103555}, {"name": "携帯機器", "id": 669167}], "successors": [{"name": "空港駅", "id": 3259326}]}

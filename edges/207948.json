@@ -1,1 +1,1 @@
-{"name": "麻薬", "id": 207948, "predecessors": [{"name": "倫理問題", "id": 720620}, {"name": "健康", "id": 148879}, {"name": "治安", "id": 197804}, {"name": "生化学", "id": 178951}], "successors": []}
+{"name": "麻薬", "id": 207948, "predecessors": [{"name": "健康", "id": 148879}, {"name": "治安", "id": 197804}, {"name": "人間行動学", "id": 743134}, {"name": "生化学", "id": 178951}], "successors": []}

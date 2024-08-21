@@ -1,1 +1,1 @@
-{"name": "航空交通管制", "id": 464004, "predecessors": [{"name": "航空", "id": 119848}, {"name": "海難救助", "id": 1930302}], "successors": []}
+{"name": "航空交通管制", "id": 464004, "predecessors": [{"name": "航空", "id": 119848}, {"name": "携帯機器", "id": 669167}], "successors": []}
