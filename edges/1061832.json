@@ -1,1 +1,1 @@
-{"name": "ルノーの車種", "id": 1061832, "predecessors": [{"name": "ルノー", "id": 1221133}, {"name": "自動車の車種", "id": 177038}, {"name": "産業", "id": 189443}], "successors": []}
+{"name": "ルノーの車種", "id": 1061832, "predecessors": [{"name": "ルノー", "id": 1221133}, {"name": "機械", "id": 199132}, {"name": "産業", "id": 189443}], "successors": []}

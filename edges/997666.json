@@ -1,1 +1,1 @@
-{"name": "太陽系外縁天体", "id": 997666, "predecessors": [{"name": "太陽系", "id": 267145}, {"name": "小惑星", "id": 189207}], "successors": [{"name": "準惑星候補", "id": 1003177}]}
+{"name": "太陽系外縁天体", "id": 997666, "predecessors": [{"name": "太陽系", "id": 267145}, {"name": "天体", "id": 136579}], "successors": [{"name": "準惑星候補", "id": 1003177}]}

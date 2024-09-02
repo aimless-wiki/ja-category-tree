@@ -1,1 +1,1 @@
-{"name": "ステーションワゴン", "id": 2403877, "predecessors": [{"name": "自動車の車種", "id": 177038}, {"name": "自動車の形態", "id": 394719}], "successors": []}
+{"name": "ステーションワゴン", "id": 2403877, "predecessors": [{"name": "機械", "id": 199132}, {"name": "自動車の形態", "id": 394719}], "successors": []}

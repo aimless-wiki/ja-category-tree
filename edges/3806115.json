@@ -1,1 +1,1 @@
-{"name": "バーチャルYouTuber", "id": 3806115, "predecessors": [{"name": "キャラクター", "id": 1275395}, {"name": "架空の人物", "id": 329550}, {"name": "YouTube", "id": 1419746}], "successors": [{"name": "ホロライブのバーチャルYouTuber", "id": 3965774}, {"name": "にじさんじのバーチャルライバー", "id": 4493636}]}
+{"name": "バーチャルYouTuber", "id": 3806115, "predecessors": [{"name": "架空の人物", "id": 329550}, {"name": "主要カテゴリ", "id": 185451}, {"name": "YouTube", "id": 1419746}], "successors": [{"name": "ホロライブのバーチャルYouTuber", "id": 3965774}, {"name": "にじさんじのバーチャルライバー", "id": 4493636}]}

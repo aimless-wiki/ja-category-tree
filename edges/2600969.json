@@ -1,1 +1,1 @@
-{"name": "シクロプロパン", "id": 2600969, "predecessors": [{"name": "シクロアルカン", "id": 1645667}, {"name": "分子", "id": 442451}], "successors": []}
+{"name": "シクロプロパン", "id": 2600969, "predecessors": [{"name": "シクロアルカン", "id": 1645667}, {"name": "分子", "id": 442451}, {"name": "気体", "id": 478631}], "successors": []}
