@@ -1,1 +1,1 @@
-{"name": "水神", "id": 401001, "predecessors": [{"name": "水", "id": 145406}, {"name": "認識論の概念", "id": 2904665}], "successors": [{"name": "海神", "id": 401008}]}
+{"name": "水神", "id": 401001, "predecessors": [{"name": "伝説", "id": 223046}, {"name": "水", "id": 145406}], "successors": [{"name": "海神", "id": 401008}]}
