@@ -1,1 +1,1 @@
-{"name": "足", "id": 1262930, "predecessors": [{"name": "人体", "id": 169978}], "successors": [{"name": "歩行", "id": 449226}, {"name": "靴", "id": 1262929}, {"name": "足湯", "id": 2763008}]}
+{"name": "足", "id": 1262930, "predecessors": [{"name": "マクロ解剖学", "id": 201391}], "successors": [{"name": "歩行", "id": 449226}, {"name": "靴", "id": 1262929}, {"name": "足湯", "id": 2763008}]}

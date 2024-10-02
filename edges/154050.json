@@ -1,1 +1,1 @@
-{"name": "ビジネス機", "id": 154050, "predecessors": [{"name": "ビジネス", "id": 2739917}, {"name": "航空", "id": 119848}], "successors": []}
+{"name": "ビジネス機", "id": 154050, "predecessors": [{"name": "航空", "id": 119848}, {"name": "主要カテゴリ", "id": 185451}], "successors": []}

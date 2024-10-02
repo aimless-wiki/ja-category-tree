@@ -1,1 +1,1 @@
-{"name": "地質調査", "id": 771467, "predecessors": [{"name": "地質学", "id": 145396}, {"name": "調査", "id": 250606}, {"name": "技術", "id": 139641}], "successors": []}
+{"name": "地質調査", "id": 771467, "predecessors": [{"name": "調査", "id": 250606}, {"name": "技術", "id": 139641}], "successors": []}
