@@ -1,1 +1,1 @@
-{"name": "北海道のバス停", "id": 256257, "predecessors": [{"name": "北海道", "id": 122283}, {"name": "公共交通", "id": 837353}], "successors": []}
+{"name": "北海道のバス停", "id": 256257, "predecessors": [{"name": "公共交通", "id": 837353}, {"name": "主要カテゴリ", "id": 185451}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "北海道の郵便局", "id": 1148023, "predecessors": [{"name": "北海道", "id": 122283}, {"name": "日本の郵便局", "id": 720308}], "successors": []}
+{"name": "北海道の郵便局", "id": 1148023, "predecessors": [{"name": "日本の地域", "id": 1645885}, {"name": "日本の郵便局", "id": 720308}], "successors": []}

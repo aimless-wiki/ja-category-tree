@@ -1,1 +1,1 @@
-{"name": "気候学", "id": 745726, "predecessors": [{"name": "気象学", "id": 168810}, {"name": "気象", "id": 117856}, {"name": "地球科学", "id": 104028}], "successors": []}
+{"name": "気候学", "id": 745726, "predecessors": [{"name": "気象学", "id": 168810}, {"name": "地球科学", "id": 104028}, {"name": "主要カテゴリ", "id": 185451}], "successors": []}
