@@ -1,1 +1,1 @@
-{"name": "顔", "id": 1925795, "predecessors": [{"name": "人体", "id": 169978}], "successors": [{"name": "目", "id": 442499}, {"name": "耳", "id": 630853}, {"name": "耳鼻咽喉科学", "id": 459219}]}
+{"name": "顔", "id": 1925795, "predecessors": [{"name": "人体", "id": 169978}], "successors": [{"name": "目", "id": 442499}, {"name": "耳", "id": 630853}, {"name": "鼻", "id": 1942784}]}

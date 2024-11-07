@@ -1,1 +1,1 @@
-{"name": "日本の下水道", "id": 2340670, "predecessors": [{"name": "公衆衛生", "id": 349025}, {"name": "公害", "id": 138988}, {"name": "サービス", "id": 3430915}], "successors": []}
+{"name": "日本の下水道", "id": 2340670, "predecessors": [{"name": "公衆衛生", "id": 349025}, {"name": "公害", "id": 138988}, {"name": "健康", "id": 148879}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "UNIX", "id": 143877, "predecessors": [{"name": "オペレーティングシステム", "id": 105059}], "successors": [{"name": "GNUプロジェクト", "id": 683745}, {"name": "UNIXのソフトウェア", "id": 915749}, {"name": "X_Window_System", "id": 1064679}]}
+{"name": "UNIX", "id": 143877, "predecessors": [{"name": "オペレーティングシステム", "id": 105059}], "successors": [{"name": "GNUプロジェクト", "id": 683745}, {"name": "UNIXのソフトウェア", "id": 915749}, {"name": "X_Window_System", "id": 1064679}, {"name": "Unix系オペレーティングシステム", "id": 1427749}]}
