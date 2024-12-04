@@ -1,1 +1,1 @@
-{"name": "音楽ランキング番組_(テレビ)", "id": 2902327, "predecessors": [{"name": "ランキング", "id": 3113096}, {"name": "主要カテゴリ", "id": 185451}], "successors": [{"name": "COUNT_DOWN_TV", "id": 4009601}]}
+{"name": "音楽ランキング番組_(テレビ)", "id": 2902327, "predecessors": [{"name": "ランキング番組_(テレビ)", "id": 2902324}, {"name": "ランキング", "id": 3113096}, {"name": "主要カテゴリ", "id": 185451}], "successors": [{"name": "COUNT_DOWN_TV", "id": 4009601}]}

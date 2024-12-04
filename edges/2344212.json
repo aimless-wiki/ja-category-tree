@@ -1,1 +1,1 @@
-{"name": "報酬", "id": 2344212, "predecessors": [{"name": "家計", "id": 1036387}, {"name": "家庭", "id": 139078}, {"name": "労働", "id": 173737}], "successors": []}
+{"name": "報酬", "id": 2344212, "predecessors": [{"name": "家計", "id": 1036387}, {"name": "家庭", "id": 139078}, {"name": "雇用", "id": 2515762}, {"name": "労働", "id": 173737}], "successors": []}
