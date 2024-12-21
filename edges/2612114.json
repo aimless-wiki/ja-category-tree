@@ -1,1 +1,1 @@
-{"name": "MacOS", "id": 2612114, "predecessors": [{"name": "BSD", "id": 738162}, {"name": "Appleのソフトウェア", "id": 2309536}, {"name": "オブジェクト指向", "id": 725006}], "successors": [{"name": "MacOSのソフトウェア", "id": 2612133}]}
+{"name": "MacOS", "id": 2612114, "predecessors": [{"name": "BSD", "id": 738162}, {"name": "Appleのオペレーティングシステム", "id": 2435971}, {"name": "オブジェクト指向", "id": 725006}], "successors": [{"name": "MacOSのソフトウェア", "id": 2612133}]}
