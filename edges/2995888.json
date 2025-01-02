@@ -1,1 +1,1 @@
-{"name": "労働時間", "id": 2995888, "predecessors": [{"name": "労働", "id": 173737}, {"name": "時間", "id": 189656}], "successors": []}
+{"name": "労働時間", "id": 2995888, "predecessors": [{"name": "雇用", "id": 2515762}, {"name": "時間", "id": 189656}], "successors": []}
