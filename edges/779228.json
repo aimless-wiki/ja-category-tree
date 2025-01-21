@@ -1,1 +1,1 @@
-{"name": "クルーズ客船", "id": 779228, "predecessors": [{"name": "宿泊施設", "id": 256963}, {"name": "水運", "id": 186535}], "successors": []}
+{"name": "クルーズ客船", "id": 779228, "predecessors": [{"name": "宿泊施設", "id": 256963}, {"name": "水運", "id": 186535}], "successors": [{"name": "イギリスのクルーズ客船", "id": 2011105}]}

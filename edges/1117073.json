@@ -1,1 +1,1 @@
-{"name": "架空の医師", "id": 1117073, "predecessors": [{"name": "医師", "id": 503095}, {"name": "医療", "id": 103822}, {"name": "職業", "id": 192837}], "successors": []}
+{"name": "架空の医師", "id": 1117073, "predecessors": [{"name": "医学", "id": 104171}, {"name": "医療", "id": 103822}, {"name": "職業", "id": 192837}], "successors": []}

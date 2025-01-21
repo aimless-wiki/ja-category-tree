@@ -1,1 +1,1 @@
-{"name": "日本の皮膚科医", "id": 2146349, "predecessors": [{"name": "日本の医師", "id": 788888}, {"name": "医師", "id": 503095}], "successors": []}
+{"name": "日本の皮膚科医", "id": 2146349, "predecessors": [{"name": "日本の医師", "id": 788888}, {"name": "皮膚科学", "id": 459230}], "successors": []}
